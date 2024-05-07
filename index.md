@@ -1,3 +1,8 @@
+---
+title: Axolotls are Cool
+layout: default 
+---
+
 ## About 
 
 ## My interests
