@@ -4,11 +4,11 @@ layout: default
 ---
 
 
-## About me 
+## About me
 
-## Bio
+## Research 
 
-## My interests
+## Teaching 
 
 ![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
 
