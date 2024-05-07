@@ -1,10 +1,10 @@
 ---
-title: Axolotls are Cool
+title: Karolina Hicke
 layout: default 
 ---
 
 
-## Karolina Hicke
+## About me 
 
 ## Bio
 
