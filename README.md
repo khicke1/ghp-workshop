@@ -9,3 +9,5 @@ Demo of GitHub pages
 - 1. Ordered list
   2. continued
   3.  
+
+![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
